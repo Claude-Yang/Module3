@@ -12,7 +12,7 @@ body {
     text-align: center;
 }
 
-.nav a {
+nav a {
     text-decoration: none;
     border: 2px solid #fff;
     color:white;
@@ -21,7 +21,7 @@ body {
     padding:1%;
 }
 
-.nav a:hover {
+nav a:hover {
     background-color: white;
     color: darkblue;
 }
